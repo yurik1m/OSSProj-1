@@ -3,3 +3,4 @@
 ## another people
 ## change branch
 ## git & github appointment start
+## git pull 실습
